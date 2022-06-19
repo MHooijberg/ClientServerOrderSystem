@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderSystem Client", "ClientServerOrderSystem\OrderSystem Client.csproj", "{EE0E4020-7855-4140-9A46-0329F72EE7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderSystem Server", "OrderSystem Server\OrderSystem Server.csproj", "{B2526770-086E-4473-A7C7-D2D338AF67C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0E4020-7855-4140-9A46-0329F72EE7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0E4020-7855-4140-9A46-0329F72EE7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0E4020-7855-4140-9A46-0329F72EE7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0E4020-7855-4140-9A46-0329F72EE7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2526770-086E-4473-A7C7-D2D338AF67C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2526770-086E-4473-A7C7-D2D338AF67C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2526770-086E-4473-A7C7-D2D338AF67C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2526770-086E-4473-A7C7-D2D338AF67C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF974540-E033-42FF-A34B-06619BDDB7B1}
+	EndGlobalSection
+EndGlobal

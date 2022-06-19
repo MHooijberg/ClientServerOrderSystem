@@ -1,0 +1,16 @@
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\bin\Debug\net5.0\OrderSystem Server.exe
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\bin\Debug\net5.0\OrderSystem Server.deps.json
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\bin\Debug\net5.0\OrderSystem Server.runtimeconfig.json
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\bin\Debug\net5.0\OrderSystem Server.runtimeconfig.dev.json
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\bin\Debug\net5.0\OrderSystem Server.dll
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\bin\Debug\net5.0\ref\OrderSystem Server.dll
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\bin\Debug\net5.0\OrderSystem Server.pdb
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.csproj.AssemblyReference.cache
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.AssemblyInfoInputs.cache
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.AssemblyInfo.cs
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.csproj.CoreCompileInputs.cache
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.dll
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\ref\OrderSystem Server.dll
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.pdb
+C:\Users\mhooi\Documents\Programming\Visual Studio 2019\Projects\ClientServerOrderSystem\OrderSystem Server\obj\Debug\net5.0\OrderSystem Server.genruntimeconfig.cache
